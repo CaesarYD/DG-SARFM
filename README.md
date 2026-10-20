@@ -1,2 +1,2 @@
 # DG-SARFM
-The code and datasets will be uploaded soon
+The code and dataset will be uploaded once our paper is online.
